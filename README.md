@@ -9,7 +9,7 @@ Assemble a small Wordpress site. Feel free to clone this repo and build within i
 All content must be editable in Wordpress.
 
 - home page
-    - global menu which collapses below 768px wide. Pages in menu can be empty, except for title.
+    - global menu which collapses on screens narrower than 768px. Pages in the menu can be empty but for a title.
         - About
         - Products
         - Contact
@@ -18,7 +18,7 @@ All content must be editable in Wordpress.
 
 ## Delivery
 
-A .zip file containing:
+A .zip archive containing:
 
 - your Git working copy (this folder, after you've cloned it), including wordpress, plugins, and uploads.
 - a .sql file of the database
