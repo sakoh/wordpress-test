@@ -2,7 +2,7 @@
 
 Assemble a small Wordpress site. Feel free to clone this repo and build within it.
 
-    git clone git@git.gunnjerkens.com:internal/wordpress-test.git
+    git clone http://git.gunnjerkens.com/internal/wordpress-test.git
 
 ## Requirements
 
