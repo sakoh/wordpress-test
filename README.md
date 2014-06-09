@@ -1,8 +1,6 @@
 # Development Test
 
-Assemble a small Wordpress site. Feel free to clone this repo and build within it.
-
-    git clone http://git.gunnjerkens.com/internal/wordpress-test.git
+Assemble a small Wordpress site from scratch.
 
 ## Requirements
 
@@ -20,5 +18,5 @@ All content must be editable in Wordpress.
 
 A .zip archive containing:
 
-- your Git working copy (this folder, after you've cloned it), including wordpress, plugins, and uploads.
+- your site's web root including wordpress, plugins, and uploads.
 - a .sql file of the database
