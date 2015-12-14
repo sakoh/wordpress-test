@@ -17,7 +17,8 @@ All content must be editable in Wordpress.
       - uses admin-ajax.php
       - one text input: email
       - one button: signup
-      - validate email using JavaScript
+      - validate email structure using a regex pattern (just the structure [something]@[something].[something])
+      - reports email validation back to the page
 
 ## Delivery
 
