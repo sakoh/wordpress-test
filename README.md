@@ -13,7 +13,8 @@ All content must be editable in Wordpress.
         - Contact
     - masthead image, full page width
     - 3 unique blocks of text
-    - newsletter signup form
+    - newsletter ajax signup form
+      - uses admin-ajax.php
       - one text input: email
       - one button: signup
       - validate email using JavaScript
